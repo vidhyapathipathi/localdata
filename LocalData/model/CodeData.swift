@@ -10,7 +10,7 @@ import Foundation
 
 class CodeData {
     var title: String = ""
-    var done: Bool = true
+    var done: Bool = false
     
     
 }
